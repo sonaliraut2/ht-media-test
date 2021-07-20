@@ -1,0 +1,7 @@
+{
+    "VERSION": "0.1",
+    "API": {
+      "ROOT_URL": "https://api.tvmaze.com",
+      "VERSION": "v1"
+    }
+}
